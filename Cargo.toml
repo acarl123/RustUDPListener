@@ -1,0 +1,6 @@
+[package]
+name = "SocketSender"
+version = "0.1.0"
+authors = ["andy <chuckles.theman@gmail.com>"]
+
+[dependencies]
